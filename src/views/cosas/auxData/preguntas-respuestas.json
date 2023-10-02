@@ -1,0 +1,247 @@
+[
+  {
+    "titulo": "¿Qué es la programación?",
+    "contenido": "La programación es el proceso de dar instrucciones a una computadora para que realice tareas específicas."
+  },
+  {
+    "titulo": "¿Qué es un programa?",
+    "contenido": "Un programa es un conjunto de instrucciones escritas en un lenguaje de programación que una computadora puede entender y ejecutar. Estas instrucciones están diseñadas para realizar una tarea específica o una serie de tareas. Los programas son la base de casi todo el software y las aplicaciones que utilizamos en dispositivos electrónicos y computadoras."
+  },
+  {
+    "titulo": "¿Para qué se programa?",
+    "contenido": "La programación se utiliza para crear software y aplicaciones que resuelven una amplia variedad de problemas y satisfacen diversas necesidades en una amplia gama de campos."
+  },
+  {
+    "titulo": "¿Cómo se programa?",
+    "contenido": [
+      {
+        "titulo": "",
+        "contenido": "Programar es un proceso complejo, que se pueden dividir en varias etapas, lo cual se conoce comúnmente como Ciclo de vida de software"
+      },
+      {
+        "titulo": "Analizar necesidad",
+        "contenido": "Se debe realizar un analisis de la necesidad o el problema a resolver con la finalidad de plantear posibles soluciones. Esto implica comprender los requisitos y establecer los objetivos de tu programa."
+      },
+      {
+        "titulo": "Diseñar un Algoritmo",
+        "contenido": "Debes diseñar un algoritmo que sea lógico y eficiente. Esto puede implicar hacer un diagrama de flujo o escribir una descripción paso a paso de los pasos necesarios."
+      },
+      {
+        "titulo": "Elegir un Lenguaje de Programación",
+        "contenido": " Debes seleccionar un lenguaje de programación que sea adecuado para tu tarea. Algunos lenguajes son mejores para ciertos tipos de aplicaciones que otros."
+      },
+      {
+        "titulo": "Escribir Código",
+        "contenido": " A continuación, escribes el código siguiendo el diseño de tu algoritmo. Utilizas la sintaxis del lenguaje de programación elegido para traducir tu algoritmo en un conjunto de instrucciones que la computadora pueda entender."
+      },
+      {
+        "titulo": "Depurar el Código",
+        "contenido": "La depuración es el proceso de encontrar y corregir errores en tu código. Los errores pueden ser de sintaxis (errores de escritura), errores lógicos (el programa no hace lo que se supone que debe hacer) o errores de tiempo de ejecución (errores que ocurren mientras el programa se está ejecutando). Utilizas herramientas de depuración y técnicas de resolución de problemas para solucionar estos errores."
+      },
+      {
+        "titulo": "Probar el Programa",
+        "contenido": "Después de depurar el código, debes probar el programa para asegurarte de que funcione correctamente. Esto implica proporcionar diferentes tipos de datos de entrada y verificar si el programa produce los resultados esperados."
+      },
+      {
+        "titulo": "Optimizar (si es necesario)",
+        "contenido": "Si el programa no es lo suficientemente rápido o eficiente, puedes realizar optimizaciones para mejorar su rendimiento."
+      },
+      {
+        "titulo": "Documentar el Código",
+        "contenido": "Es importante documentar tu código para que otras personas (o tú mismo en el futuro) puedan entenderlo. Esto incluye agregar comentarios y descripciones claras de lo que hace cada parte del código."
+      },
+      {
+        "titulo": "Mantener el Código",
+        "contenido": "A medida que los requisitos cambien o surjan errores, es posible que debas realizar actualizaciones en tu código. El mantenimiento del código es una parte continua del proceso de programación."
+      },
+      {
+        "titulo": "Desplegar la Aplicación",
+        "contenido": "Si estás desarrollando una aplicación que se utilizará en producción, debes desplegarla en un entorno de producción y asegurarte de que esté disponible para los usuarios."
+      }
+    ]
+  },
+  {
+    "titulo": "¿Qué es un algoritmo?",
+    "contenido": "Un algoritmo es una serie de pasos o instrucciones que se siguen para resolver un problema."
+  },
+  {
+    "titulo": "¿Qué tipo de programadores hay?",
+    "contenido": [
+      {
+        "titulo": "Programador de Front-End",
+        "contenido": "Los programadores de front-end se centran en el desarrollo de la interfaz de usuario de aplicaciones web y móviles. Utilizan HTML, CSS y JavaScript para crear páginas web interactivas y experiencias de usuario atractivas."
+      },
+      {
+        "titulo": "Programador de Back-End",
+        "contenido": "Los programadores de back-end se enfocan en la lógica y la funcionalidad que se ejecutan en el servidor. Trabajan con bases de datos, servidores web y aplicaciones que gestionan la lógica empresarial de una aplicación."
+      },
+      {
+        "titulo": "Programador Full-Stack",
+        "contenido": "Los programadores full-stack tienen conocimientos tanto en front-end como en back-end y pueden trabajar en todas las capas de una aplicación. Son versátiles y pueden desarrollar aplicaciones completas desde el inicio hasta el final. Son responsables de diseñar la interfaz de usuario y desarrollar la lógica del servidor."
+      },
+      {
+        "titulo": "Programador de Aplicaciones Móviles",
+        "contenido": "Estos programadores se especializan en el desarrollo de aplicaciones móviles para plataformas como iOS (utilizando Swift o Objective-C) o Android (utilizando Java o Kotlin)."
+      },
+      {
+        "titulo": "Programador de Juegos (Game Developer)",
+        "contenido": "Los programadores de juegos se dedican al desarrollo de videojuegos. Utilizan motores de juegos como Unity o Unreal Engine y están familiarizados con la física del juego, los gráficos 3D, la inteligencia artificial y la optimización de rendimiento."
+      },
+      {
+        "titulo": "Programador de Sistemas Embebidos",
+        "contenido": "Los programadores de sistemas embebidos trabajan en el desarrollo de software para dispositivos embebidos, como microcontroladores y sistemas integrados en productos electrónicos."
+      },
+      {
+        "titulo": "Programador de Bases de Datos (Database Developer)",
+        "contenido": "Los programadores de bases de datos se especializan en diseñar, mantener y optimizar bases de datos. Trabajan con lenguajes como SQL y son responsables de garantizar la integridad de los datos."
+      },
+      {
+        "titulo": "Programador DevOps",
+        "contenido": "Los programadores DevOps trabajan en la automatización de la infraestructura de desarrollo y en la implementación continua para agilizar el proceso de desarrollo y despliegue de aplicaciones."
+      },
+      {
+        "titulo": "Programador de Seguridad (Security Developer)",
+        "contenido": "Los programadores de seguridad se centran en identificar y solucionar vulnerabilidades en aplicaciones y sistemas para protegerlos contra amenazas cibernéticas."
+      },
+      {
+        "titulo": "Programador de Inteligencia Artificial (AI Developer)",
+        "contenido": "Los programadores de IA trabajan en el desarrollo de algoritmos y modelos de aprendizaje automático para aplicaciones de inteligencia artificial y aprendizaje profundo."
+      },
+      {
+        "titulo": "Programador de Automatización de Procesos Robóticos (RPA Developer)",
+        "contenido": " Estos programadores se especializan en la automatización de tareas y procesos empresariales utilizando software de automatización de procesos robóticos."
+      },
+      {
+        "titulo": "Programador de Blockchain",
+        "contenido": "Los programadores de blockchain se enfocan en el desarrollo de aplicaciones descentralizadas y contratos inteligentes utilizando tecnologías de blockchain como Ethereum."
+      },
+      {
+        "titulo": "",
+        "contenido": "Estos son solo algunos ejemplos de los tipos de programadores que existen. Cada uno de ellos tiene habilidades y conocimientos específicos en sus áreas de especialización, y la elección de orientación dependerá de los intereses y objetivos individuales de cada programador."
+      }
+    ]
+  },
+  {
+    "titulo": "Internet",
+    "contenido": [
+      {
+        "titulo": "",
+        "contenido": "El internet, también conocido como la Red de redes, es una vasta red global de computadoras interconectadas que se comunican entre sí a través de una variedad de tecnologías y protocolos. Es un sistema de comunicación global que permite a las computadoras y otros dispositivos conectarse y compartir información en todo el mundo. A continuacion hay algunas características clave del internet"
+      },
+      {
+        "titulo": "Interconexión Global",
+        "contenido": "El internet conecta millones de dispositivos en todo el mundo, incluyendo computadoras, servidores, teléfonos inteligentes, tabletas, electrodomésticos y más. Estos dispositivos pueden comunicarse entre sí independientemente de su ubicación geográfica."
+      },
+      {
+        "titulo": "Protocolo TCP/IP",
+        "contenido": "El funcionamiento del internet se basa en el protocolo TCP/IP (Protocolo de Control de Transmisión/Protocolo de Internet), que establece estándares y reglas para el enrutamiento y la transmisión de datos a través de la red."
+      },
+      {
+        "titulo": "World Wide Web (WWW)",
+        "contenido": "La World Wide Web es una de las aplicaciones más populares del internet. Es un sistema de información que permite a los usuarios acceder a sitios web, páginas web y recursos en línea a través de navegadores web como Chrome, Firefox y Safari."
+      },
+      {
+        "titulo": "Correo Electrónico",
+        "contenido": "El correo electrónico (e-mail) es una de las aplicaciones de comunicación más utilizadas en el internet. Permite el intercambio de mensajes y archivos entre usuarios a través de servidores de correo electrónico."
+      },
+      {
+        "titulo": "Comunicación en Tiempo Real",
+        "contenido": "El internet permite la comunicación en tiempo real a través de aplicaciones como las llamadas de voz y video por Internet, la mensajería instantánea y las redes sociales."
+      },
+      {
+        "titulo": "Transferencia de Datos",
+        "contenido": "El internet permite la transferencia de datos en diversos formatos, como texto, imágenes, audio y video. Esto incluye la descarga y carga de archivos, transmisión de contenido multimedia y más."
+      },
+      {
+        "titulo": "Comercio Electrónico",
+        "contenido": "El internet ha habilitado el comercio electrónico, permitiendo a las empresas vender productos y servicios en línea a nivel global."
+      },
+      {
+        "titulo": "Redes Sociales",
+        "contenido": "Las redes sociales son plataformas en línea que permiten a las personas conectarse y compartir contenido, interactuar con amigos y seguir intereses comunes."
+      },
+      {
+        "titulo": "Búsqueda en Línea",
+        "contenido": "Los motores de búsqueda como Google permiten a los usuarios buscar información en toda la web, proporcionando acceso rápido a una amplia variedad de recursos en línea."
+      },
+      {
+        "titulo": "Seguridad en Internet",
+        "contenido": "Dado que el internet se utiliza para la transmisión de datos confidenciales, la seguridad en línea es una preocupación importante. Se utilizan medidas como cifrado, cortafuegos y antivirus para proteger la privacidad y la seguridad en línea."
+      },
+      {
+        "titulo": "",
+        "contenido": "El internet ha transformado la forma en que las personas se comunican, acceden a la información, trabajan, hacen negocios y se entretienen. Es una herramienta fundamental en la sociedad moderna y continúa evolucionando con el tiempo, brindando nuevas oportunidades y desafíos."
+      }
+    ]
+  },
+  {
+    "titulo": "Protocolos de internet",
+    "contenido": [
+      {
+        "titulo": "Que es un protocolo de red",
+        "contenido": "Es un conjunto de normas que rigen el cómo los paquetes de comunicación se transmiten a través de la red"
+      },
+      {
+        "titulo": "Protocolos comunes",
+        "contenido": [
+          {
+            "titulo": "TCP/IP (Protocolo de Control de Transmisión/Protocolo de Internet)",
+            "contenido": "Este es el conjunto de protocolos fundamental que sustenta Internet. TCP se encarga de dividir los datos en paquetes, enviarlos de manera confiable y asegurar que lleguen en el orden correcto. IP se encarga de enrutar estos paquetes a través de la red."
+          },
+          {
+            "titulo": "HTTP (Protocolo de Transferencia de Hipertexto)",
+            "contenido": "HTTP se utiliza para transferir datos en la World Wide Web (WWW). Es el protocolo que permite a los navegadores web solicitar y mostrar páginas web, así como interactuar con aplicaciones web."
+          },
+          {
+            "titulo": "HTTPS (HTTP Seguro)",
+            "contenido": "HTTPS es una versión segura de HTTP que utiliza cifrado SSL/TLS para proteger la privacidad y la seguridad de la comunicación en línea, como las transacciones en línea y el intercambio de datos confidenciales."
+          },
+          {
+            "titulo": "SMTP (Protocolo Simple de Transferencia de Correo)",
+            "contenido": "SMTP se utiliza para enviar correo electrónico. Define cómo los servidores de correo deben comunicarse para entregar mensajes de correo electrónico a sus destinatarios."
+          },
+          {
+            "titulo": "POP3 (Protocolo de Oficina de Correo 3)",
+            "contenido": "POP3 es un protocolo de recepción de correo electrónico que permite a los clientes de correo electrónico descargar mensajes desde un servidor de correo a una computadora local."
+          },
+          {
+            "titulo": "IMAP (Protocolo de Acceso a Mensajes de Internet)",
+            "contenido": " IMAP es otro protocolo de correo electrónico que permite a los clientes acceder a mensajes de correo electrónico almacenados en un servidor remoto, lo que permite una sincronización bidireccional entre el cliente y el servidor."
+          },
+          {
+            "titulo": "FTP (Protocolo de Transferencia de Archivos)",
+            "contenido": "FTP se utiliza para transferir archivos entre computadoras en una red. Permite cargar y descargar archivos desde un servidor FTP."
+          },
+          {
+            "titulo": "DNS (Sistema de Nombres de Dominio)",
+            "contenido": "DNS es el protocolo que se utiliza para traducir nombres de dominio, como www.ejemplo.com, en direcciones IP numéricas que las computadoras pueden entender."
+          },
+          {
+            "titulo": "SNMP (Protocolo Simple de Administración de Red)",
+            "contenido": "SNMP se utiliza para administrar y supervisar dispositivos de red como routers y switches. Permite a los administradores de red obtener información sobre el estado y el rendimiento de los dispositivos."
+          },
+          {
+            "titulo": "DHCP (Protocolo de Configuración Dinámica de Host)",
+            "contenido": "DHCP se utiliza para asignar automáticamente direcciones IP a dispositivos en una red, lo que facilita la administración de direcciones IP en redes grandes."
+          },
+          {
+            "titulo": "SSH (Secure Shell)",
+            "contenido": "SSH es un protocolo de red seguro que se utiliza para acceder de forma segura a sistemas remotos y ejecutar comandos de manera segura en máquinas remotas."
+          },
+          {
+            "titulo": "BGP (Protocolo de Puerta de Enlace de Borde)",
+            "contenido": "BGP es un protocolo utilizado en Internet para enrutar paquetes de datos entre sistemas autónomos (AS) y es fundamental para la operación de la red global."
+          },
+          {
+            "titulo": "",
+            "contenido": "Estos son solo algunos ejemplos de los muchos protocolos de Internet que se utilizan para diferentes propósitos en la comunicación y el funcionamiento de Internet. Cada uno de estos protocolos tiene su propio conjunto de reglas y estándares que permiten una comunicación efectiva y confiable en la red."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "titulo": "",
+    "contenido":""
+   }
+]
