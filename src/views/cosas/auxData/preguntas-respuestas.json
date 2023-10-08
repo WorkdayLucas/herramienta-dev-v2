@@ -241,7 +241,39 @@
     ]
   },
   {
-    "titulo": "",
-    "contenido":""
-   }
+    "titulo": "1) TECNOLOGIAS Y VESRIONES INCLUIDAS",
+    "contenido":"HTML y CSS SCSS JavaScript + ES6 (no jQuery) Fetch API MySQL 8 PHP8 (POO, MVC y API)"
+  },
+  {
+    "titulo": "COMO LA VAMOS A APRENDER?",
+    "contenido":"100% Practico, creando proyectos, como crear funciones y como conectar esas funciones a un formulario, como conectar esas funciones a una base de datos, como leer lo que el usuario escriba. Veremos los fundamentos de HTML como textos, imagenes, enlaces, y crearemos proyectos. Despues como parle una excelente apariencia con CSS. Introduccion a JavaScript y lo agregaremos a los proyectos actuales. Una vez que tenga base solida de JS, veremos fundamentos de Base de Datos, MySQL y PHP. Crear proyecto completo desde HTML, CSS, JS, MySQL, y PHP. Introduccion programacion Orientada a Objetos. Mejoraremos ese proyecto con MVC. Haremos diferentes proyectos MVC. Crear propio frameworks"
+  },
+  {
+    "titulo": "2) DIFERENTES AREAS DEL DESARROLLO WEB ¿DONDE TE VAS A DESENVOLVER? ¿EN QUE CONSISTE?",
+    "contenido":"Front End Developer. Backend Developer. Full Stack Develope."
+  },
+  {
+    "titulo": "Front End Developer THML CSS JavaScript APIs",
+    "contenido":"Fronted Developer es la persona encargada de lo que se puede ver en un sitio web, es decir HTML, CSS y javaScript. Los botones, enlaces, mostrar informacion, formularios, imágenes. También es la persona encargada de optimizar el sitio, mejorar el código CSS para que sea ligero, escribir CSS que se adapte a celulares y tabletas, y qie ese codigo sea compatible con diferentes navegadores. En años recientes el FE Developer Tambien trabaja con JavaScript y tecnologías como React para mostrar informacion desde una API. Si bien aunque su trabajo parece estar enfocado en el diseño, hay un área llamada UI Design que es la encargada de colores, tipografía y más."
+  },
+  {
+    "titulo": "Backend Developer Lenguajes de Programación, BD y más",
+    "contenido":"Es la persona encargada de escribir el código que se ejecuta del lado del servidor. Si una tienda virtual recibe pagos, lo debe hacer de forma segura. También se encarga de modelar una base de datos, cómo se van a relacionar las diferentes tablas o entidades de información de un proyecto para evitar redundancia de datos. Tambien se encargará de mejorar el performance del código actual, revisar cuestiones de seguridad, evitar ataques e inyección SQL. En el enfoque Moderno, Backend se encargaea de crear la API que Frontend va a consumir y mostrar"
+  },
+  {
+    "titulo": "Full Stack Developer Backend y Frontend en uno solo.",
+    "contenido":"El Full Stack Developer se le consideraba hasta hace algunos como Uno en un millón. La gran cantidad de frameworks CSS, HTML, JS y de backend que ha salido los últimos años han permitido que cada día haya más personas con los conocimientos necesarios para ser full stack. Significa que puedes crear el Stack Completo de una Aplicación o sitio web, es decir puedes escribir tanto backend como front end. Full Stack no es la persona que configura servidores, revisa impresoras, arquitectura de software, project manager, eso es un departamento completo de TI."
+  },
+  {
+    "titulo": "3)RECOMENDACIONES PARA ESTUDIAR ¿CÓMO SCAR MÁXIMO PROVECHO?",
+    "contenido":"Todos aprendemos de forma diferente. Debe encontrar tu forma de aprendizaje. Algunas personas les gusta ver el capítulo completo, como si fuera una serie, y después repetir el curso e ir escribiendo el código. Otras personas les gusta escribir el código conforme se presenta."
+  },
+  {
+    "titulo": "Lo que debes evitar al momento de tomar un curso",
+    "contenido":"El código no se memoriza, pero puedes tomar Notas con Notion o en un cuaderno, incluso un documento de Word, Banco de Notas En Notion puedes colocar así se crean variables en JavaScript, asi puedo crear columnas con CSS, utilizo estos elementos en HTML de acuerdo a cierta jerarquía, diagramas como solucionar un problema en papel o en computadora. Tomar el curso a una gran velocidad, saltar videos o avanzar muy rápido. Quedarte con dudas."
+  },
+  {
+    "titulo": "Lo que debes priorizar al momento de tomar un curso",
+    "contenido":"Practicar; con lo aprendido en HTML y CSS, intenta agregar una sección nueva al sitio que estamos realizando, cambia algunos colores u orden; o toma un reto de Frontend Mentor. Cuando veamos la parte de JavaScript o PHP, intenta extender los ejemplos con más funciones, incluso un campo extra en un formulario es un gran aprendizaje. Participar en la comunidad."
+  }
 ]
